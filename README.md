@@ -30,9 +30,16 @@ Soy un desarrollador en formación con experiencia previa en diseño digital y u
 <p align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-garc%C3%ADa-bohigas-74736b216/">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://www.svgrepo.com/show/70809/linkedin.svg"
       alt="linkedin jose carlos garcia bohigas"
-      height="30" width="40"
+      width="50"
+    />
+  </a>
+  <a href="mailto:josecgb95@gmail.com">
+    <img align="center"
+      src="https://www.svgrepo.com/show/349378/gmail.svg"
+      alt="email jose carlos garcia bohigas"
+      width="50"
     />
   </a>
 </p>
