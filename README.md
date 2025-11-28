@@ -28,7 +28,7 @@ Soy un desarrollador en formación con experiencia previa en diseño digital y u
 
 <h3 align="center">🤝 Contacto</h3>
 <p align="center">
-  <a href="linkedin.com/in/josé-carlos-garcía-bohigas-74736b216">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-garc%C3%ADa-bohigas-74736b216/">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin jose carlos garcia bohigas"
